@@ -1,0 +1,32 @@
+.first {
+    background-color: wheat;
+}
+
+.second {
+    background-color: coral;
+}
+
+.third {
+    background-color: rgb(2, 2, 31);
+}
+
+.fourth {
+    background-color: violet;
+}
+
+.fifth {
+    background-color: blueviolet;
+}
+
+.sixth {
+    background-color: coral;
+}
+
+* {
+    width: 200px;
+    height: 200px;
+}
+
+.parent {
+    display: flex;
+}
