@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h3 id="intro">Tweeter</h3>
+    <p id="tweet"><em id="question">What's up?</em></p>
+    <p id="messages">New Messages</p>
+
+    <script>
+        document.getElementById("messages").innerHTML = "No Messages";
+        var element = document.getElementById("tweet"); //we store element 
+        console.log(element.innerHTML = "No Messages");
+        console.log(document.getElementById("intro").innerHTML);
+    </script>
+
+</body>
+
+</html>
