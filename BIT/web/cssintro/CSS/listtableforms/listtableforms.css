@@ -1,0 +1,29 @@
+    .first {
+        list-style-type: circle;
+    }
+    
+    .second {
+        list-style-type: square;
+    }
+    
+    .third {
+        list-style-type: upper-alpha;
+    }
+    
+    .fourth {
+        width: 200px;
+        list-style-type: upper-roman;
+    }
+    
+    .fifth {
+        width: 200px;
+        list-style-image: url(https://www.flaticon.com/svg/vstatic/svg/751/751427.svg?token=exp=1616855646~hmac=c1b4697e82e7bb163bdea74d82ddbe5f);
+        margin: 10px;
+    }
+    
+    .sixth {
+        width: 200px;
+        list-style-image: url(https://www.flaticon.com/svg/vstatic/svg/751/751427.svg?token=exp=1616855646~hmac=c1b4697e82e7bb163bdea74d82ddbe5f);
+        margin: 10px;
+        list-style-position: inside;
+    }

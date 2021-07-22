@@ -1,0 +1,54 @@
+        div {
+            width: 200px;
+            height: 200px;
+        }
+        
+        .first {
+            background-color: red;
+        }
+        
+        .second {
+            background-color: yellow;
+        }
+        
+        .third {
+            background-color: blue;
+        }
+        
+        .f {
+            position: relative;
+            background-color: red;
+        }
+        
+        .s {
+            position: relative;
+            background-color: yellow;
+            /*!!!!!!!!!!!!!!!!!!!!*/
+            top: -60px;
+            left: 100px;
+        }
+        
+        .t {
+            position: relative;
+            background-color: blue;
+            top: -60px;
+            left: 100px;
+        }
+        
+        .ff {
+            background-color: red;
+            /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+            /*position: absolute;*/
+            top: 0px;
+            right: 0px;
+        }
+        
+        .ss {
+            background-color: yellow;
+            position: absolute;
+        }
+        
+        .tt {
+            background-color: blue;
+            position: absolute;
+        }

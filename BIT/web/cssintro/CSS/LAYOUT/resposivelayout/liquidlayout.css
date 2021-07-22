@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+
+.picture {
+    width: 75px;
+    border-radius: 50px 50px;
+}
+
+.top {
+    margin-top: 30px;
+}
+
+.top-container {
+    display: inline-block;
+    margin-left: 40px;
+    padding-bottom: 100px;
+    float: left;
+}
+
+.pic {
+    float: left;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 40px;
+}
+
+h6 {
+    font: 15px;
+    padding-left: 5px;
+    margin-top: 15px;
+}
+
+.left {
+    float: left;
+    width: 40%;
+    clear: left;
+}
+
+.right {
+    float: right;
+    width: 60%;
+    border-left: solid;
+    padding-left: 50px;
+}
+
+.right-up {
+    margin-bottom: 30px;
+}
+
+.right-down {
+    margin-top: 30px;
+}
+
+.clear-fix {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.subheader {
+    margin-bottom: 30px;
+}

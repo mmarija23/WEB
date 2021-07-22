@@ -1,0 +1,30 @@
+           img {
+               display: block;
+               margin-bottom: 10px;
+           }
+           
+           .first {
+               display: block;
+               float: right;
+           }
+           
+           .second {
+               width: 200px;
+               margin: 0 auto;
+               /*display: block;*/
+           }
+           
+           .third {
+               position: absolute;
+               top: 0px;
+               left: 0px;
+               display: block;
+               width: 200px;
+               height: 200px;
+               /*float: left;*/
+           }
+           
+           .second:hover {
+               border: 5px solid red;
+               cursor: pointer;
+           }

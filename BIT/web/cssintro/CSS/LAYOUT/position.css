@@ -1,0 +1,26 @@
+.first {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    margin-bottom: 30px;
+}
+
+.second {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+
+.third {
+    position: absolute;
+    bottom: 0px;
+    left: 500px;
+}
+
+.drugi {
+    position: fixed;
+    bottom: 0px;
+    right: 10px;
+}

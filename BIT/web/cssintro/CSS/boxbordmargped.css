@@ -1,0 +1,58 @@
+    * {
+        box-sizing: border-box;
+    }
+    
+    div {
+        border-width: 5px thick;
+    }
+    
+    h1 {
+        width: 960px;
+        text-align: center;
+        box-sizing: border-box;
+        margin-top: 50px;
+        padding-top: 50px;
+        margin-bottom: 50px;
+        padding-bottom: 50px;
+        background-color: hotpink;
+        color: navy;
+        font-family: fantasy;
+        box-shadow: 5px 5px 15px 5px #000000;
+        border-radius: 10px;
+    }
+    
+    .first {
+        display: inline-block;
+        background-color: yellow;
+        border-style: dashed;
+        padding: 50px 50px 50px 50px;
+        width: 300px;
+        margin: 50px;
+        margin-right: 20px;
+        padding: 0px;
+    }
+    
+    .third {
+        display: inline-block;
+        background-color: yellow;
+        border-style: dashed;
+        padding: 50px 50px 50px 50px;
+        width: 200px;
+        margin-left: 100px;
+        margin-right: 20px;
+        padding: 0px;
+        visibility: hidden;
+    }
+    
+    .second {
+        display: inline-block;
+        background-color: yellow;
+        border: solid green;
+        padding-top: 50px;
+        width: 400px;
+        text-align: center;
+        margin-right: 20px;
+        padding: 0px;
+        visibility: hidden;
+        /*The middle one should have a 50px top padding only. Da li treba da se ostale nameste na auto*/
+    }

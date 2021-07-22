@@ -1,0 +1,50 @@
+            @font-face {
+                font-family: 'Mukta', sans-serif;
+                src: url('fonts/ 'Mukta',sans-serif')
+            }
+            
+            @font-face {
+                font-family: 'Roboto-Bold.ttf';
+                src: url(/cssintro/csscolors/textcssfolder/CSS/downloadfont/Roboto-BoldItalic.ttf)
+            }
+            
+            body {
+                font-size: 16px;
+                font-weight: bold;
+            }
+            
+            h1 {
+                font-family: 'Mukta', sans-serif;
+            }
+            
+            .first {
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: normal;
+                font-family: 'Roboto-BoldItalic.ttf';
+            }
+            
+            .first q {
+                font-family: serif;
+            }
+            
+            .second {
+                font-family: Arial, Helvetica, sans-serif;
+                font-style: oblique;
+            }
+            
+            .third {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            
+            .third span {
+                font-weight: 300;
+                font-style: italic;
+            }
+            
+            .fourth {
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            
+            .fifth {
+                font-family: cursive;
+            }

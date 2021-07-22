@@ -1,0 +1,13 @@
+table {
+    margin-right: auto;
+    margin-left: auto;
+    paddin-: 10px;
+}
+
+.header {
+    background-color: red;
+}
+
+img {
+    height: 100px;
+}

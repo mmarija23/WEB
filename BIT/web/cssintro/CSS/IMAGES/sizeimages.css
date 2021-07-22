@@ -1,0 +1,16 @@
+img {
+    display: block;
+}
+
+.first {
+    height: 200px;
+}
+
+.second {
+    width: 200px;
+}
+
+.third {
+    width: 200px;
+    height: 200px;
+}

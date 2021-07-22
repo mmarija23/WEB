@@ -1,0 +1,41 @@
+    .first {
+        letter-spacing: 5px;
+        text-align: left;
+    }
+    
+    .second {
+        line-height: 200%;
+        text-align: right;
+    }
+    /*da li treba definisati original line height ili je on vec po defaultu odredjen....
+Zadatak Line height of the second paragraph is 200% of the original line height*/
+    
+    .third {
+        text-align: center;
+    }
+    
+    .main {
+        color: default;
+        text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+    }
+    
+    a {
+        color: blueviolet;
+    }
+    
+    a:link {
+        color: red
+    }
+    /*nije crveno???????????*/
+    
+    a:visited {
+        color: black;
+    }
+    
+    a:hover {
+        color: green;
+    }
+    
+    a:active {
+        color: blue;
+    }

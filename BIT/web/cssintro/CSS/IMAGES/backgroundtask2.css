@@ -1,0 +1,8 @@
+body {
+    background-image: url(https://image.shutterstock.com/image-photo/large-beautiful-drops-transparent-rain-260nw-668593321.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

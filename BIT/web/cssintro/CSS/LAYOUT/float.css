@@ -1,0 +1,18 @@
+ul {
+    width: 960px;
+    list-style-type: none;
+}
+
+ul li {
+    float: left;
+    padding: 20px;
+    background-color: red;
+    right: 100px;
+}
+
+.conteiner {
+    background-color: red;
+    width: 960px;
+    display: inline-block;
+    right: 300px;
+}
